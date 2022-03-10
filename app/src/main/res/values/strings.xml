@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DADM_U3P4</string>
+
+    <string name="db_name">BD_ContactsApp</string>
+    <integer name="db_version">1</integer>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

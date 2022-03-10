@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abrah/AndroidStudioProjects/DADM_U2P4 (1)/DADM_U3P4/app/src/main/res/layout/activity_contact.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/abrah/AndroidStudioProjects/DADM_U2P4 (1)/DADM_U3P4/app/src/main/res/layout/activity_main.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/abrah/AndroidStudioProjects/DADM_U2P4 (1)/DADM_U3P4/app/src/main/res/layout/fragment_s_m_s_.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/abrah/AndroidStudioProjects/DADM_U2P4 (1)/DADM_U3P4/app/src/main/res/layout/recylcer_row_contacts.xml" value="0.16944444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
